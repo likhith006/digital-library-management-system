@@ -1,4 +1,4 @@
-# 📚 Apex College Digital Library Management System
+# 📚 Gist Digital Library Management System
 
 A full-stack web application for college library administration, academic resource management, digital e-book distribution, automated issue/return tracking, and fine management.
 
